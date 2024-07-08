@@ -1,5 +1,5 @@
-const backendDomain = "http://localhost:8000" 
-// const backendDomain = "https://mern-ecommerce-bay.vercel.app"
+// const backendDomain = "http://localhost:8000" 
+const backendDomain = "https://full-stack-ecommerce-tau.vercel.app"
 const SummaryApi = {
     signUP : {
          url : `${backendDomain}/api/signup`,
